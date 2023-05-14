@@ -19,5 +19,10 @@ Windows CMD: ``` venv\Scripts\activate ```
 
 ## Run .py Scripts
 ```
-py sample.py
+py program/main.py
 ```
+
+
+# Information
+- Sample.py scripts are samples to create pygame entities
+- Actual Code is inside the program folder
